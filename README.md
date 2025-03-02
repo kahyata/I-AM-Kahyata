@@ -36,13 +36,13 @@ I am a 4th-year Computer Science student at the University of Zambia and a passi
 ## Socials 🌐
 
 <div align="left">
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" />
+  <a href="https://x.com/natukahyata" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X logo" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedinprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/kahyata-sekeseke-47483b204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/yourgithubusername" target="_blank">
+  <a href="https://github.com/Kahyata" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github logo" />
   </a>
 </div>
