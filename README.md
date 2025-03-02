@@ -1,14 +1,13 @@
 # Hi there! 👋 My name is Kahyata Sekeseke
 
-### High School Student and Software Developer
+### Computer Science Student and Software Developer
 
 I am a 4th-year Computer Science student at the University of Zambia and a passionate software developer. I have been programming for the past 2 years, working on various academic projects. Currently, I am focused on web and app development with HTML, CSS, and JavaScript.
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm based in Zambia
-- 🌱 Check my blog at [example.com/blog](https://example.com/blog)
-- 📫 You can contact me at [your.email@example.com](mailto:your.email@example.com)
+- 🎓 I'm based in Lusaka,Zambia.
+- 📫 You can contact me at Kahyatasekeseke6@gmail.com)
 - 🧠 Currently learning ReactJS
 - 💛 I'm open to collaborating on Web and App development projects
 
@@ -16,6 +15,7 @@ I am a 4th-year Computer Science student at the University of Zambia and a passi
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -27,6 +27,7 @@ I am a 4th-year Computer Science student at the University of Zambia and a passi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
