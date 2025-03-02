@@ -8,8 +8,8 @@ I am a 4th-year Computer Science student at the University of Zambia and a passi
 
 - 🎓 I'm based in Lusaka,Zambia.
 - 📫 You can contact me at Kahyatasekeseke6@gmail.com)
-- 🧠 Currently learning ReactJS
-- 💛 I'm open to collaborating on Web and App development projects
+- 🧠 Currently learning ReactJS, NodeJS & ExpressJS.
+- 💛 I'm open to collaborating on Web and App development projects.
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
