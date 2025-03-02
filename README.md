@@ -4,12 +4,14 @@
 
 I am a 4th-year Computer Science student at the University of Zambia and a passionate software developer. I have been programming for the past 2 years, working on various academic projects. Currently, I am focused on web and app development with HTML, CSS, and JavaScript.
 
+
 ### 👨‍💻 About Me
 
 - 🎓 I'm based in Lusaka,Zambia.
-- 📫 You can contact me at Kahyatasekeseke6@gmail.com)
+- 📫 You can contact me at Kahyatasekeseke6@gmail.com.
 - 🧠 Currently learning ReactJS, NodeJS & ExpressJS.
 - 💛 I'm open to collaborating on Web and App development projects.
+- 🫣 I have hobbies too. I farm, read, cook and anything humanly possible that keeps me away from being insane.😅
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
